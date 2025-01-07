@@ -13202,3 +13202,1199 @@ Make sure 'BPC_Player_Stats_C' has been compiled for  Increase Ammo
 [2025.01.07-21.17.05:928][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2025.01.07-21.17.05:934][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_79
 [2025.01.07-21.17.05:953][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.20.46:855][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.07-21.20.46:860][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level1/E/9K/JT96JNIVTVBGLD1LFH4PET_Auto4
+[2025.01.07-21.20.46:860][412]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/JT96JNIVTVBGLD1LFH4PET_Auto4266B500D46312FE2EECB688EC4E4C88F.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/__ExternalActors__/Level1/E/9K/JT96JNIVTVBGLD1LFH4PET_Auto4.uasset'
+[2025.01.07-21.20.46:861][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level1/7/02/VKXKNYR7V3VCBNU40HO05E_Auto4
+[2025.01.07-21.20.46:862][412]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/VKXKNYR7V3VCBNU40HO05E_Auto4BABC55F849D2A69F23931CAF9B1A48BA.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/__ExternalActors__/Level1/7/02/VKXKNYR7V3VCBNU40HO05E_Auto4.uasset'
+[2025.01.07-21.20.46:863][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level1/B/VV/W7QC7J2IAQEK37VJ1QPUZF_Auto4
+[2025.01.07-21.20.46:863][412]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/W7QC7J2IAQEK37VJ1QPUZF_Auto408B3374342914AFA61B790BCB0AD13C1.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/__ExternalActors__/Level1/B/VV/W7QC7J2IAQEK37VJ1QPUZF_Auto4.uasset'
+[2025.01.07-21.20.46:864][412]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.031
+[2025.01.07-21.20.46:864][412]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2025.01.07-21.20.46:865][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Equipment_System/BPC_EquipmentSystem] ([2] browsable assets)...
+[2025.01.07-21.20.46:865][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Equipment_System/BPC_EquipmentSystem]
+[2025.01.07-21.20.46:875][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Equipment_System/BPC_EquipmentSystem_Auto4
+[2025.01.07-21.20.46:875][412]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/BPC_EquipmentSystem_Auto4FC8C77234EDFAA0EA0040199F0AC727E.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/Equipment_System/BPC_EquipmentSystem_Auto4.uasset'
+[2025.01.07-21.20.46:876][412]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Equipment_System/UI/WB_Equipment] ([2] browsable assets)...
+[2025.01.07-21.20.46:883][412]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Equipment_System/UI/WB_Equipment.WB_Equipment]
+[2025.01.07-21.20.46:883][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Equipment_System/UI/WB_Equipment]
+[2025.01.07-21.20.46:889][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Equipment_System/UI/WB_Equipment_Auto4
+[2025.01.07-21.20.46:889][412]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Equipment_Auto4AFCE432F4CBC189E8D3FD393F823E4C2.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/Equipment_System/UI/WB_Equipment_Auto4.uasset'
+[2025.01.07-21.20.46:890][412]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Equipment_System/UI/WB_Item_Slot] ([2] browsable assets)...
+[2025.01.07-21.20.46:897][412]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Equipment_System/UI/WB_Item_Slot.WB_Item_Slot]
+[2025.01.07-21.20.46:897][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Equipment_System/UI/WB_Item_Slot]
+[2025.01.07-21.20.46:899][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Equipment_System/UI/WB_Item_Slot_Auto4
+[2025.01.07-21.20.46:899][412]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Item_Slot_Auto49B35B40748C193CADEBC6185E2B7C781.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/Equipment_System/UI/WB_Item_Slot_Auto4.uasset'
+[2025.01.07-21.20.46:900][412]LogFileHelpers: Auto-saving content packages took 0.036
+[2025.01.07-21.20.49:634][462]BlueprintLog: New page: Compile WB_Equipment
+[2025.01.07-21.20.49:679][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.07-21.20.50:179][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-21.20.50:221][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Equipment_System/UI/WB_Equipment" FILE="../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Equipment.uasset" SILENT=true
+[2025.01.07-21.20.50:228][484]LogSavePackage: Moving output files for package: /Game/Equipment_System/UI/WB_Equipment
+[2025.01.07-21.20.50:229][484]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Equipment152B713D48A5D783A837A4A19D752031.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Equipment.uasset'
+[2025.01.07-21.20.50:237][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 2.86 sec)
+[2025.01.07-21.20.50:240][484]AssetCheck: New page: Asset Save: WB_Equipment
+[2025.01.07-21.20.50:240][484]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Equipment_System/UI/WB_Equipment.WB_Equipment
+[2025.01.07-21.21.40:368][774]BlueprintLog: New page: Compile WB_Equipable_Slot
+[2025.01.07-21.21.40:425][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.07-21.23.35:631][257]LogDerivedDataCache: C:/Users/danii/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2377 files in 3592 folders with total size 173 MiB.
+[2025.01.07-21.30.47:118][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.07-21.30.47:121][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.024
+[2025.01.07-21.30.47:122][ 16]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Equipment_System/BPC_EquipmentSystem] ([2] browsable assets)...
+[2025.01.07-21.30.47:122][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/Equipment_System/BPC_EquipmentSystem]
+[2025.01.07-21.30.47:134][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Equipment_System/BPC_EquipmentSystem_Auto5
+[2025.01.07-21.30.47:134][ 16]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/BPC_EquipmentSystem_Auto5ECD3DAB04F8D8C809F6B7B938C4323D1.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/Equipment_System/BPC_EquipmentSystem_Auto5.uasset'
+[2025.01.07-21.30.47:134][ 16]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Equipment_System/UI/WB_Equipment] ([2] browsable assets)...
+[2025.01.07-21.30.47:142][ 16]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Equipment_System/UI/WB_Equipment.WB_Equipment]
+[2025.01.07-21.30.47:142][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/Equipment_System/UI/WB_Equipment]
+[2025.01.07-21.30.47:148][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Equipment_System/UI/WB_Equipment_Auto5
+[2025.01.07-21.30.47:148][ 16]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Equipment_Auto5197737904BBF7C403E0A8FAE46C581EA.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/Equipment_System/UI/WB_Equipment_Auto5.uasset'
+[2025.01.07-21.30.47:150][ 16]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Equipment_System/UI/WB_Equipable_Slot] ([2] browsable assets)...
+[2025.01.07-21.30.47:159][ 16]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Equipment_System/UI/WB_Equipable_Slot.WB_Equipable_Slot]
+[2025.01.07-21.30.47:159][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/Equipment_System/UI/WB_Equipable_Slot]
+[2025.01.07-21.30.47:163][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Equipment_System/UI/WB_Equipable_Slot_Auto5
+[2025.01.07-21.30.47:163][ 16]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Equipable_Slot_Auto57D4C6B5A4B8FFD54338A98BB3230748D.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/Equipment_System/UI/WB_Equipable_Slot_Auto5.uasset'
+[2025.01.07-21.30.47:163][ 16]LogFileHelpers: Auto-saving content packages took 0.042
+[2025.01.07-21.32.45:288][ 72]BlueprintLog: New page: Compile WB_Equipable_Slot
+[2025.01.07-21.32.45:379][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.07-21.33.20:050][ 16]BlueprintLog: New page: Compile WB_Equipment
+[2025.01.07-21.33.20:096][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.07-21.34.24:155][630]LogEditorTransaction: Undo Add Node
+[2025.01.07-21.35.36:898][674]BlueprintLog: New page: Compile WB_Equipment
+[2025.01.07-21.35.36:944][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.07-21.35.49:283][829]BlueprintLog: New page: Compile WB_Equipable_Slot
+[2025.01.07-21.35.49:383][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.01.07-21.35.49:853][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.35.56:271][976]BlueprintLog: New page: Compile WB_Item_Slot
+[2025.01.07-21.35.56:307][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.07-21.37.13:629][232]BlueprintLog: New page: Compile WB_Item_Slot
+[2025.01.07-21.37.13:667][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.01.07-21.37.14:052][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-21.37.14:084][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Equipment_System/UI/WB_Item_Slot" FILE="../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Item_Slot.uasset" SILENT=true
+[2025.01.07-21.37.14:087][249]LogSavePackage: Moving output files for package: /Game/Equipment_System/UI/WB_Item_Slot
+[2025.01.07-21.37.14:088][249]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Item_Slot212CEC564062652BB9433B97F0C8B153.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Item_Slot.uasset'
+[2025.01.07-21.37.14:096][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 2.90 sec)
+[2025.01.07-21.37.14:101][249]AssetCheck: New page: Asset Save: WB_Item_Slot
+[2025.01.07-21.37.14:101][249]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Equipment_System/UI/WB_Item_Slot.WB_Item_Slot
+[2025.01.07-21.37.54:119][ 65]BlueprintLog: New page: Compile WB_Item_Slot
+[2025.01.07-21.37.54:198][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.07-21.37.54:616][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-21.37.54:655][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Equipment_System/UI/WB_Item_Slot" FILE="../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Item_Slot.uasset" SILENT=true
+[2025.01.07-21.37.54:659][ 84]LogSavePackage: Moving output files for package: /Game/Equipment_System/UI/WB_Item_Slot
+[2025.01.07-21.37.54:659][ 84]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Item_Slot75137717405B7C025272F3A287D501C2.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Item_Slot.uasset'
+[2025.01.07-21.37.54:667][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.95 sec)
+[2025.01.07-21.37.54:670][ 84]AssetCheck: New page: Asset Save: WB_Item_Slot
+[2025.01.07-21.37.54:670][ 84]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Equipment_System/UI/WB_Item_Slot.WB_Item_Slot
+[2025.01.07-21.38.28:407][891]LogEditorTransaction: Undo Add Node
+[2025.01.07-21.39.10:095][519]BlueprintLog: New page: Compile WB_Equipment
+[2025.01.07-21.39.10:146][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.07-21.39.10:651][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-21.39.10:693][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Equipment_System/UI/WB_Equipment" FILE="../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Equipment.uasset" SILENT=true
+[2025.01.07-21.39.10:701][536]LogSavePackage: Moving output files for package: /Game/Equipment_System/UI/WB_Equipment
+[2025.01.07-21.39.10:702][536]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Equipment5F612BBB40CE8C1F84C03984D3612B65.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Equipment.uasset'
+[2025.01.07-21.39.10:712][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 3.01 sec)
+[2025.01.07-21.39.10:716][536]AssetCheck: New page: Asset Save: WB_Equipment
+[2025.01.07-21.39.10:716][536]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Equipment_System/UI/WB_Equipment.WB_Equipment
+[2025.01.07-21.39.26:209][891]BlueprintLog: New page: Compile WB_Item_Slot
+[2025.01.07-21.39.26:296][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.07-21.39.26:646][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-21.39.26:692][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Equipment_System/UI/WB_Item_Slot" FILE="../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Item_Slot.uasset" SILENT=true
+[2025.01.07-21.39.26:696][905]LogSavePackage: Moving output files for package: /Game/Equipment_System/UI/WB_Item_Slot
+[2025.01.07-21.39.26:696][905]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Item_SlotCED8C27F4059EE456FB8E3B3D52F40E8.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Item_Slot.uasset'
+[2025.01.07-21.39.26:705][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 3.07 sec)
+[2025.01.07-21.39.26:709][905]AssetCheck: New page: Asset Save: WB_Item_Slot
+[2025.01.07-21.39.26:709][905]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Equipment_System/UI/WB_Item_Slot.WB_Item_Slot
+[2025.01.07-21.39.34:481][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:267][  0]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.07-21.39.35:274][  0]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.07-21.39.35:277][  0]LogWorldPartition: Display: GenerateStreaming started...
+[2025.01.07-21.39.35:277][  0]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.01.07-21.39.35:277][  0]LogWorldPartition: Display: GetPartitionedActors took 27 us (total: 1 ms)
+[2025.01.07-21.39.35:384][  0]LogWorldPartition: Display: GenerateStreaming took 107 ms (total: 5.47 sec)
+[2025.01.07-21.39.35:386][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.07-21.39.35:386][  0]PIE: New page: PIE session: Level1 (7 янв. 2025 г., 23:39:35)
+[2025.01.07-21.39.35:407][  0]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2025.01.07-21.39.35:417][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010388s)
+[2025.01.07-21.39.35:417][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.010432s)
+[2025.01.07-21.39.35:418][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.07-21.39.35:418][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.07-21.39.35:418][  0]LogAIModule: Creating AISystem for world Level1
+[2025.01.07-21.39.35:418][  0]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.07-21.39.35:418][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.07-21.39.35:418][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.01.07-21.39.35:421][  0]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.01.07-21.39.35:421][  0]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.58 sec)
+[2025.01.07-21.39.35:421][  0]LogPlayLevel: PIE: World Init took: (0.003559s)
+[2025.01.07-21.39.35:439][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.07-21.39.35:442][  0]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2025.01.07-21.39.35:442][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.07-21.39.35:442][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.07-21.39.35:442][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.07-21.39.35:442][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.07-21.39.35:442][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.07-21.39.35:442][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.01.07-21.39.35:442][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.07-21.39.35:442][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.07-21.39.35:442][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.07-21.39.35:442][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.07-21.39.35:442][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.07-21.39.35:444][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.07-21.39.35:464][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (PRO)
+[2025.01.07-21.39.35:464][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.07-21.39.35:464][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.07-21.39.35:464][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.07-21.39.35:466][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2025.01.07-21.39.35:466][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2025.01.07-21.39.35:468][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2025.01.07-21.39.35:468][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2025.01.07-21.39.35:468][  0]LogInit: FAudioDevice initialized with ID 55.
+[2025.01.07-21.39.35:468][  0]LogAudio: Display: Audio Device (ID: 55) registered with world 'Level1'.
+[2025.01.07-21.39.35:468][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2025.01.07-21.39.35:470][  0]LogLoad: Game class is 'BP_GameMode_C'
+[2025.01.07-21.39.35:471][  0]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.01.07-22.39.35
+[2025.01.07-21.39.35:471][  0]LogWorld: Bringing up level for play took: 0.000750
+[2025.01.07-21.39.35:473][  0]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2025.01.07-21.39.35:475][  0]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2025.01.07-21.39.35:475][  0]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=277.231 Y=-682.999 Z=297.567,P=0.000000 Y=38.181182 R=-0.000000
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/E/DA/J516S77NSSVOJDW89GN8I5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/E/6T/JUY8XV0XY24MVW3DWC042Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/E/4F/XD4XJHKWSIMR8I2B82CACF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/R2/XN92OZVW5NICYYUOYOCLMI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/MR/5NSU1ZHYULCOQEZUXNGD0O.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/MG/K3TUY6R1BE2FPMTUV3K5DV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/G9/R8N8V56ZK86X863IOKHZSB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/EE/CNLGXHO8H5VEQJTSJ9G61K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/C/S7/G17JHPK97QXMICTRLKOLGG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/C/H0/LGW1M67FPWO9GN9C4GQ0K0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/C/29/AUGJBLADAE73ZFZWUIC7K8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/ZZ/9466U43R1YANRSRXAE0TIT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/YN/WABFDAIZS367YK61WF8Z2Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/VV/OYTRSN2GT6R34NTEN0MZ98.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/TV/K5O3JXBDWOLLYKZPZWLSM5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/SP/OXAYVNGTCV7535E6Q9PDCM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/R9/N6WGXYISBII9RW2A5ZYRB0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/2G/5PM3A3CO2AIPIM872CJPFX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/A/S4/TH9L0BFAGF6LIRTKFD096P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/A/6G/83N21P0RBGKI3FX9ZLPLUK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/9/OE/LLNJ0V363EUFDUT4AOQOYI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/9/NM/TVI9PMJYFBUTD91V7MAQ7B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/9/95/2I0AN5CDF74JC5QYCTDKAA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/9/0J/JZL6THYPT4MCX5KDEG8I08.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:481][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/8/WV/C7U2B2C2HI3E9KLF1XTTWB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/8/MI/XFLCJJCVXXCHTO7SSTP0U9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/8/EI/BKIFDQRWH816T99SONO94X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/8/33/O3KU3I74PVDM8N1VE5X0BQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/7/SP/A7E9O3PSQ6DRXBOV5B5HGO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/7/3Q/H49GRSEFS0HUDNP8MA0ZKZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/N8/GG3UT6AMJVVEVIORH4VLEB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/J8/HC9J7C6HZF56FQCOF4IOFN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/B8/S5RID2URJAJNMSMRUXVPPR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/AK/JMKQJ8DKLO2R2H4THO1A63.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/7E/RLP536Y5XKIBBJ9V8WX2QG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/5G/SYCIQZTUZ7DHPABQJYQ5NS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/YF/KUVNE2NZCSRAPL5N3Z3O9D.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/ET/Y9HO2CZW4663BBGLSR8L9M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/D5/8MGX2NWPNQ5SA7IDCXULIP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/CV/7DE85LM0O5LDQSBXIULNWZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/21/XWPKUJJVIEYLEWDKGVF97C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/ZF/TB2F9MXRHQ8XDQMJJ7S7B3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/S0/NJKUUA0AW6VHEMOSXFTU6W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/R7/AQG9M974YO9DOTFZYAH3QT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/Q2/AMA92GDJPQIFW37TCCXA20.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/OQ/AB28P0IDNP5JZU25RICZP0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/JU/XNME9A4ED5U9GAB9VE40E7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/FX/H8WA0HNVHVO5WRMIF0JS3I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/DP/TI2QLHNA6HJBJGEU02E3NI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/AH/O56WE30BLA33UYBXKE7EKN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/75/3XZ7JDL4FE2AKCTGITR9P0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/3/WF/A7AT41C2WBL2IG7OR5EZYX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/3/SE/3J2DO71KZVCAXAQCQU7B7H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/2/UO/W2GTKX3XG1AXXQMZ0Z3FP6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/2/EQ/XC3O60NEXKAGHUTE11T0LE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/2/57/8FPADH1ACU010UTQROUNQ0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/2/2O/P5Z5KDFKS669BW10QLT20X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/RJ/JNBABN7Y0DDV91PND0HKN7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/MV/INJBM3HCUAXUSU4FI9CW5A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/DM/BL3P7IJ0LSLXINWOP6UOG0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/DA/PTWMVXA727T95KSWIVLIS1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/86/MMXSWLJ1NBQYQPF54T9PW3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/7S/XXGOYJGXP7B0XL79NTCLIK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:482][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/0/BA/4OB6EFEIWNGWGTTBJO9W93.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.39.35:488][  0]LogStreaming: Display: FlushAsyncLoading(-1): 44 QueuedPackages, 0 AsyncPackages
+[2025.01.07-21.39.35:629][  0]PIE: Server logged in
+[2025.01.07-21.39.35:630][  0]PIE: Play in editor total start time 0,355 seconds.
+[2025.01.07-21.39.35:642][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:643][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:643][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/7/QL/56CB7ERUJ0CI2DSE10JAYO' is in a memory-only mount point.
+[2025.01.07-21.39.35:643][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/XW/69SHSG956JX4K5D32IB97Y' is in a memory-only mount point.
+[2025.01.07-21.39.35:644][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:644][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:644][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/F/56/ZGZVP37F4TPNVZNYSES2CQ' is in a memory-only mount point.
+[2025.01.07-21.39.35:644][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/F8/N8727G8IXL84F6NQ2K6GM0' is in a memory-only mount point.
+[2025.01.07-21.39.35:645][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:645][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/5/5V/UIPXMDQ3FSU1TU9RJMUHOP' is in a memory-only mount point.
+[2025.01.07-21.39.35:645][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:646][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:646][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:646][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:646][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:648][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:648][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:727][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:727][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:728][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/7/QL/56CB7ERUJ0CI2DSE10JAYO' is in a memory-only mount point.
+[2025.01.07-21.39.35:728][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/XW/69SHSG956JX4K5D32IB97Y' is in a memory-only mount point.
+[2025.01.07-21.39.35:728][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:728][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:729][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/F/56/ZGZVP37F4TPNVZNYSES2CQ' is in a memory-only mount point.
+[2025.01.07-21.39.35:729][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/F8/N8727G8IXL84F6NQ2K6GM0' is in a memory-only mount point.
+[2025.01.07-21.39.35:729][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:729][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/5/5V/UIPXMDQ3FSU1TU9RJMUHOP' is in a memory-only mount point.
+[2025.01.07-21.39.35:730][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:730][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:730][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:731][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:731][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:732][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.35:733][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.37:180][ 50]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.07-21.39.37:180][ 50]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.01.07-21.39.37:180][ 50]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.01.07-21.39.40:829][269]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.07-21.39.40:830][269]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.01.07-21.39.41:546][312]LogBlueprintUserMessages: [BPC_EquipmentSystem] Item Gathered!
+[2025.01.07-21.39.42:080][344]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.07-21.39.42:080][344]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.01.07-21.39.42:267][355]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.44:612][496]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.07-21.39.44:612][496]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.01.07-21.39.45:563][553]LogBlueprintUserMessages: [BPC_EquipmentSystem] Item Gathered!
+[2025.01.07-21.39.46:318][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.47:714][682]LogBlueprintUserMessages: [BPC_EquipmentSystem] Item Gathered!
+[2025.01.07-21.39.48:351][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.39.48:580][734]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.07-21.39.48:580][734]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.01.07-21.39.53:196][ 11]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.07-21.39.53:196][ 11]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.01.07-21.39.53:481][ 28]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.07-21.39.53:481][ 28]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.01.07-21.39.54:147][ 68]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.07-21.39.54:147][ 68]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.01.07-21.39.57:515][156]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.07-21.39.57:515][156]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.01.07-21.39.59:154][254]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.07-21.39.59:154][254]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.01.07-21.45.03:702][327]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.07-21.45.03:702][327]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.01.07-21.45.05:624][442]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.07-21.45.05:624][442]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.01.07-21.45.06:955][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-21.45.06:956][520]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2025.01.07-21.45.06:968][520]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.45.06:969][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.45.06:969][520]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.01.07-21.45.06:973][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.07-21.45.06:977][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.45.06:997][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.07-21.45.06:998][520]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2025.01.07-21.45.06:998][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.01.07-21.45.07:000][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.01.07-21.45.07:004][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-21.45.07:017][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.07-21.45.07:045][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.45.07:053][521]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2025.01.07-21.45.07:074][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.46.32:126][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.07-21.46.32:132][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level1/E/9K/JT96JNIVTVBGLD1LFH4PET_Auto6
+[2025.01.07-21.46.32:132][254]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/JT96JNIVTVBGLD1LFH4PET_Auto6071C83E44A7587CF1AC26BB62A8569B3.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/__ExternalActors__/Level1/E/9K/JT96JNIVTVBGLD1LFH4PET_Auto6.uasset'
+[2025.01.07-21.46.32:134][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level1/7/02/VKXKNYR7V3VCBNU40HO05E_Auto6
+[2025.01.07-21.46.32:135][254]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/VKXKNYR7V3VCBNU40HO05E_Auto6213E3BBF42465AEF9C50F3B3E6DF8FED.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/__ExternalActors__/Level1/7/02/VKXKNYR7V3VCBNU40HO05E_Auto6.uasset'
+[2025.01.07-21.46.32:136][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level1/B/VV/W7QC7J2IAQEK37VJ1QPUZF_Auto6
+[2025.01.07-21.46.32:136][254]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/W7QC7J2IAQEK37VJ1QPUZF_Auto6BC1C744F4D1140098DE055A631A3EB48.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/__ExternalActors__/Level1/B/VV/W7QC7J2IAQEK37VJ1QPUZF_Auto6.uasset'
+[2025.01.07-21.46.32:137][254]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.029
+[2025.01.07-21.46.32:137][254]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.01.07-21.46.32:137][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Equipment_System/BPC_EquipmentSystem] ([2] browsable assets)...
+[2025.01.07-21.46.32:137][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Equipment_System/BPC_EquipmentSystem]
+[2025.01.07-21.46.32:147][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Equipment_System/BPC_EquipmentSystem_Auto6
+[2025.01.07-21.46.32:147][254]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/BPC_EquipmentSystem_Auto6627CF8924FA68ED092A7F586DA5EEC75.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/Equipment_System/BPC_EquipmentSystem_Auto6.uasset'
+[2025.01.07-21.46.32:148][254]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Equipment_System/UI/WB_Equipable_Slot] ([2] browsable assets)...
+[2025.01.07-21.46.32:158][254]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Equipment_System/UI/WB_Equipable_Slot.WB_Equipable_Slot]
+[2025.01.07-21.46.32:158][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Equipment_System/UI/WB_Equipable_Slot]
+[2025.01.07-21.46.32:162][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Equipment_System/UI/WB_Equipable_Slot_Auto6
+[2025.01.07-21.46.32:162][254]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Equipable_Slot_Auto60261F23D47797D7DAFEFD5ACDD93777D.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/Autosaves/Game/Equipment_System/UI/WB_Equipable_Slot_Auto6.uasset'
+[2025.01.07-21.46.32:162][254]LogFileHelpers: Auto-saving content packages took 0.026
+[2025.01.07-21.51.55:083][ 48]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.01.07-21.51.55:083][ 48]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.01.07-21.53.21:795][516]LogWindowsTextInputMethodSystem: Activated input method: Польский (Польша) - (Keyboard).
+[2025.01.07-21.53.21:795][516]LogWindowsTextInputMethodSystem: Activated input method: Польский (Польша) - (Keyboard).
+[2025.01.07-21.55.33:793][951]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.07-21.55.33:799][951]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.07-21.55.33:802][951]LogWorldPartition: Display: GenerateStreaming started...
+[2025.01.07-21.55.33:802][951]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.01.07-21.55.33:802][951]LogWorldPartition: Display: GetPartitionedActors took 24 us (total: 1 ms)
+[2025.01.07-21.55.33:898][951]LogWorldPartition: Display: GenerateStreaming took 96 ms (total: 5.56 sec)
+[2025.01.07-21.55.33:899][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.07-21.55.33:899][951]PIE: New page: PIE session: Level1 (7 янв. 2025 г., 23:55:33)
+[2025.01.07-21.55.33:899][951]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2025.01.07-21.55.33:908][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009366s)
+[2025.01.07-21.55.33:908][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.009391s)
+[2025.01.07-21.55.33:908][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.07-21.55.33:908][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.07-21.55.33:908][951]LogAIModule: Creating AISystem for world Level1
+[2025.01.07-21.55.33:909][951]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.07-21.55.33:909][951]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.07-21.55.33:909][951]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.01.07-21.55.33:911][951]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.01.07-21.55.33:911][951]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.58 sec)
+[2025.01.07-21.55.33:911][951]LogPlayLevel: PIE: World Init took: (0.003045s)
+[2025.01.07-21.55.33:932][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.07-21.55.33:934][951]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2025.01.07-21.55.33:934][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.07-21.55.33:934][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.07-21.55.33:934][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.07-21.55.33:934][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.07-21.55.33:934][951]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.07-21.55.33:934][951]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.01.07-21.55.33:934][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.07-21.55.33:934][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.07-21.55.33:935][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.07-21.55.33:935][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.07-21.55.33:935][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.07-21.55.33:937][951]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.07-21.55.33:957][951]LogAudioMixer: Display: Using Audio Hardware Device Динамики (PRO)
+[2025.01.07-21.55.33:957][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.07-21.55.33:957][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.07-21.55.33:957][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.07-21.55.33:958][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2025.01.07-21.55.33:958][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2025.01.07-21.55.33:959][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2025.01.07-21.55.33:959][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2025.01.07-21.55.33:959][951]LogInit: FAudioDevice initialized with ID 56.
+[2025.01.07-21.55.33:959][951]LogAudio: Display: Audio Device (ID: 56) registered with world 'Level1'.
+[2025.01.07-21.55.33:959][951]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2025.01.07-21.55.33:962][951]LogLoad: Game class is 'BP_GameMode_C'
+[2025.01.07-21.55.33:963][951]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.01.07-22.55.33
+[2025.01.07-21.55.33:963][951]LogWorld: Bringing up level for play took: 0.000710
+[2025.01.07-21.55.33:964][951]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2025.01.07-21.55.33:966][951]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2025.01.07-21.55.33:966][951]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=307.703 Y=-461.815 Z=254.992,P=0.000000 Y=173.318316 R=-0.000000
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/E/DA/J516S77NSSVOJDW89GN8I5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/E/6T/JUY8XV0XY24MVW3DWC042Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/E/4F/XD4XJHKWSIMR8I2B82CACF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/R2/XN92OZVW5NICYYUOYOCLMI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/MR/5NSU1ZHYULCOQEZUXNGD0O.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/MG/K3TUY6R1BE2FPMTUV3K5DV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/G9/R8N8V56ZK86X863IOKHZSB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/D/EE/CNLGXHO8H5VEQJTSJ9G61K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/C/S7/G17JHPK97QXMICTRLKOLGG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/C/H0/LGW1M67FPWO9GN9C4GQ0K0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/C/29/AUGJBLADAE73ZFZWUIC7K8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/ZZ/9466U43R1YANRSRXAE0TIT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/YN/WABFDAIZS367YK61WF8Z2Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/VV/OYTRSN2GT6R34NTEN0MZ98.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/TV/K5O3JXBDWOLLYKZPZWLSM5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/SP/OXAYVNGTCV7535E6Q9PDCM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/R9/N6WGXYISBII9RW2A5ZYRB0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/B/2G/5PM3A3CO2AIPIM872CJPFX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/A/S4/TH9L0BFAGF6LIRTKFD096P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/A/6G/83N21P0RBGKI3FX9ZLPLUK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/9/OE/LLNJ0V363EUFDUT4AOQOYI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/9/NM/TVI9PMJYFBUTD91V7MAQ7B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/9/95/2I0AN5CDF74JC5QYCTDKAA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/9/0J/JZL6THYPT4MCX5KDEG8I08.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/8/WV/C7U2B2C2HI3E9KLF1XTTWB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/8/MI/XFLCJJCVXXCHTO7SSTP0U9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/8/EI/BKIFDQRWH816T99SONO94X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/8/33/O3KU3I74PVDM8N1VE5X0BQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/7/SP/A7E9O3PSQ6DRXBOV5B5HGO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/7/3Q/H49GRSEFS0HUDNP8MA0ZKZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/N8/GG3UT6AMJVVEVIORH4VLEB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/J8/HC9J7C6HZF56FQCOF4IOFN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/B8/S5RID2URJAJNMSMRUXVPPR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/AK/JMKQJ8DKLO2R2H4THO1A63.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/7E/RLP536Y5XKIBBJ9V8WX2QG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/6/5G/SYCIQZTUZ7DHPABQJYQ5NS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/YF/KUVNE2NZCSRAPL5N3Z3O9D.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/ET/Y9HO2CZW4663BBGLSR8L9M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/D5/8MGX2NWPNQ5SA7IDCXULIP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/CV/7DE85LM0O5LDQSBXIULNWZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/5/21/XWPKUJJVIEYLEWDKGVF97C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/ZF/TB2F9MXRHQ8XDQMJJ7S7B3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/S0/NJKUUA0AW6VHEMOSXFTU6W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/R7/AQG9M974YO9DOTFZYAH3QT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/Q2/AMA92GDJPQIFW37TCCXA20.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/OQ/AB28P0IDNP5JZU25RICZP0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/JU/XNME9A4ED5U9GAB9VE40E7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/FX/H8WA0HNVHVO5WRMIF0JS3I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/DP/TI2QLHNA6HJBJGEU02E3NI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/AH/O56WE30BLA33UYBXKE7EKN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/4/75/3XZ7JDL4FE2AKCTGITR9P0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/3/WF/A7AT41C2WBL2IG7OR5EZYX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/3/SE/3J2DO71KZVCAXAQCQU7B7H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/2/UO/W2GTKX3XG1AXXQMZ0Z3FP6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/2/EQ/XC3O60NEXKAGHUTE11T0LE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/2/57/8FPADH1ACU010UTQROUNQ0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/2/2O/P5Z5KDFKS669BW10QLT20X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/RJ/JNBABN7Y0DDV91PND0HKN7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/MV/INJBM3HCUAXUSU4FI9CW5A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/DM/BL3P7IJ0LSLXINWOP6UOG0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/DA/PTWMVXA727T95KSWIVLIS1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/86/MMXSWLJ1NBQYQPF54T9PW3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/1/7S/XXGOYJGXP7B0XL79NTCLIK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:972][951]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level1/0/BA/4OB6EFEIWNGWGTTBJO9W93.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.01.07-21.55.33:978][951]LogStreaming: Display: FlushAsyncLoading(-1): 44 QueuedPackages, 0 AsyncPackages
+[2025.01.07-21.55.34:106][951]PIE: Server logged in
+[2025.01.07-21.55.34:106][951]PIE: Play in editor total start time 0,307 seconds.
+[2025.01.07-21.55.34:117][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:117][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:118][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/7/QL/56CB7ERUJ0CI2DSE10JAYO' is in a memory-only mount point.
+[2025.01.07-21.55.34:118][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/XW/69SHSG956JX4K5D32IB97Y' is in a memory-only mount point.
+[2025.01.07-21.55.34:118][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:118][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:119][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/F/56/ZGZVP37F4TPNVZNYSES2CQ' is in a memory-only mount point.
+[2025.01.07-21.55.34:119][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/F8/N8727G8IXL84F6NQ2K6GM0' is in a memory-only mount point.
+[2025.01.07-21.55.34:119][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:119][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/5/5V/UIPXMDQ3FSU1TU9RJMUHOP' is in a memory-only mount point.
+[2025.01.07-21.55.34:119][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:120][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:120][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:120][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:120][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:122][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:122][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:215][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:215][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:216][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/7/QL/56CB7ERUJ0CI2DSE10JAYO' is in a memory-only mount point.
+[2025.01.07-21.55.34:216][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/XW/69SHSG956JX4K5D32IB97Y' is in a memory-only mount point.
+[2025.01.07-21.55.34:216][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:216][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:217][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/F/56/ZGZVP37F4TPNVZNYSES2CQ' is in a memory-only mount point.
+[2025.01.07-21.55.34:217][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/F8/N8727G8IXL84F6NQ2K6GM0' is in a memory-only mount point.
+[2025.01.07-21.55.34:217][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:217][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/5/5V/UIPXMDQ3FSU1TU9RJMUHOP' is in a memory-only mount point.
+[2025.01.07-21.55.34:218][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:218][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:218][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:218][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:218][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:220][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.34:220][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.35:782][ 46]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.07-21.55.35:782][ 46]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.01.07-21.55.35:782][ 46]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.01.07-21.55.52:316][525]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.07-21.55.52:316][525]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.01.07-21.55.52:871][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:871][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:872][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/7/QL/56CB7ERUJ0CI2DSE10JAYO' is in a memory-only mount point.
+[2025.01.07-21.55.52:872][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/XW/69SHSG956JX4K5D32IB97Y' is in a memory-only mount point.
+[2025.01.07-21.55.52:872][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:872][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:873][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/F/56/ZGZVP37F4TPNVZNYSES2CQ' is in a memory-only mount point.
+[2025.01.07-21.55.52:873][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/F8/N8727G8IXL84F6NQ2K6GM0' is in a memory-only mount point.
+[2025.01.07-21.55.52:873][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:873][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/5/5V/UIPXMDQ3FSU1TU9RJMUHOP' is in a memory-only mount point.
+[2025.01.07-21.55.52:874][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:874][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:874][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:874][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:875][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:876][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:876][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:908][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:908][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:908][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/7/QL/56CB7ERUJ0CI2DSE10JAYO' is in a memory-only mount point.
+[2025.01.07-21.55.52:909][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/XW/69SHSG956JX4K5D32IB97Y' is in a memory-only mount point.
+[2025.01.07-21.55.52:909][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:909][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:909][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/F/56/ZGZVP37F4TPNVZNYSES2CQ' is in a memory-only mount point.
+[2025.01.07-21.55.52:910][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/F8/N8727G8IXL84F6NQ2K6GM0' is in a memory-only mount point.
+[2025.01.07-21.55.52:910][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:910][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/5/5V/UIPXMDQ3FSU1TU9RJMUHOP' is in a memory-only mount point.
+[2025.01.07-21.55.52:910][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:911][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:911][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:911][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:911][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:912][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.52:912][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:155][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:156][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:156][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/7/QL/56CB7ERUJ0CI2DSE10JAYO' is in a memory-only mount point.
+[2025.01.07-21.55.53:156][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/XW/69SHSG956JX4K5D32IB97Y' is in a memory-only mount point.
+[2025.01.07-21.55.53:157][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:157][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:157][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/F/56/ZGZVP37F4TPNVZNYSES2CQ' is in a memory-only mount point.
+[2025.01.07-21.55.53:158][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/F8/N8727G8IXL84F6NQ2K6GM0' is in a memory-only mount point.
+[2025.01.07-21.55.53:158][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:158][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/5/5V/UIPXMDQ3FSU1TU9RJMUHOP' is in a memory-only mount point.
+[2025.01.07-21.55.53:159][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:159][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:159][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:159][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:160][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:161][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:161][575]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:172][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:173][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:173][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/7/QL/56CB7ERUJ0CI2DSE10JAYO' is in a memory-only mount point.
+[2025.01.07-21.55.53:173][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/XW/69SHSG956JX4K5D32IB97Y' is in a memory-only mount point.
+[2025.01.07-21.55.53:174][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:174][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:174][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/F/56/ZGZVP37F4TPNVZNYSES2CQ' is in a memory-only mount point.
+[2025.01.07-21.55.53:174][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Level1/B/F8/N8727G8IXL84F6NQ2K6GM0' is in a memory-only mount point.
+[2025.01.07-21.55.53:174][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:175][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y-1_InstanceOf_/Game/__ExternalActors__/Level1/5/5V/UIPXMDQ3FSU1TU9RJMUHOP' is in a memory-only mount point.
+[2025.01.07-21.55.53:175][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:175][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:176][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:176][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:176][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:177][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:177][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.53:915][621]LogBlueprintUserMessages: [BPC_EquipmentSystem] Item Gathered!
+[2025.01.07-21.55.54:087][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.54:284][643]LogBlueprintUserMessages: [BPC_EquipmentSystem] Item Gathered!
+[2025.01.07-21.55.54:850][677]LogBlueprintUserMessages: [BPC_EquipmentSystem] Item Gathered!
+[2025.01.07-21.55.55:103][692]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.55:103][692]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.07-21.55.55:700][728]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.07-21.55.55:700][728]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.01.07-21.56.17:150][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.01.07-21.56.17:177][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.01.07-21.56.18:165][159]LogSlate: Window 'Save Content' being destroyed
+[2025.01.07-21.56.18:179][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-21.56.18:187][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/E/9K/JT96JNIVTVBGLD1LFH4PET
+[2025.01.07-21.56.18:188][159]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/JT96JNIVTVBGLD1LFH4PET84FDCF284AA17D648CCC91B9EF229921.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/__ExternalActors__/Level1/E/9K/JT96JNIVTVBGLD1LFH4PET.uasset'
+[2025.01.07-21.56.18:189][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/B/VV/W7QC7J2IAQEK37VJ1QPUZF
+[2025.01.07-21.56.18:189][159]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/W7QC7J2IAQEK37VJ1QPUZF6D8585474C5DCFD7A0AFD2A18BCAFEF2.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/__ExternalActors__/Level1/B/VV/W7QC7J2IAQEK37VJ1QPUZF.uasset'
+[2025.01.07-21.56.18:191][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/7/02/VKXKNYR7V3VCBNU40HO05E
+[2025.01.07-21.56.18:191][159]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/VKXKNYR7V3VCBNU40HO05EE9E4D1514FF31B59838C0BA12A4DD11C.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/__ExternalActors__/Level1/7/02/VKXKNYR7V3VCBNU40HO05E.uasset'
+[2025.01.07-21.56.18:202][159]LogSavePackage: Moving output files for package: /Game/Equipment_System/BPC_EquipmentSystem
+[2025.01.07-21.56.18:203][159]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/BPC_EquipmentSystem8DEA5D3B41731CC07FF5E0B978FBFE49.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/BPC_EquipmentSystem.uasset'
+[2025.01.07-21.56.18:207][159]LogSavePackage: Moving output files for package: /Game/Equipment_System/UI/WB_Equipable_Slot
+[2025.01.07-21.56.18:207][159]LogSavePackage: Moving '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Saved/WB_Equipable_SlotA848E5224862DB00A7E789BBFB255D88.tmp' to '../../../../../../programming/Projekty/UnrealEngine/PPG/PPG Project/Content/Equipment_System/UI/WB_Equipable_Slot.uasset'
+[2025.01.07-21.56.18:208][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 3.10 sec)
+[2025.01.07-21.56.18:211][159]LogStall: Shutdown...
+[2025.01.07-21.56.18:215][159]LogStall: Shutdown complete.
+[2025.01.07-21.56.18:263][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.07-21.56.18:263][159]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.18:263][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.18:439][159]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.18:439][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.18:674][159]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.18:675][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.18:680][159]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.18:680][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.18:761][159]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.18:762][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.18:922][159]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.18:922][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.18:927][159]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.18:927][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.18:999][159]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.18:999][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.19:005][159]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.19:005][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.19:060][159]LogSlate: Window 'PPG - Unreal Editor' being destroyed
+[2025.01.07-21.56.19:063][159]LogWindowsTextInputMethodSystem: Activated input method: Польский (Польша) - (Keyboard).
+[2025.01.07-21.56.19:175][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-21.56.19:175][159]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2025.01.07-21.56.19:186][159]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.19:187][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.19:187][159]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.01.07-21.56.19:191][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.07-21.56.19:194][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.19:219][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-21.56.19:219][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2025.01.07-21.56.19:219][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.01.07-21.56.19:221][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.01.07-21.56.19:251][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.07-21.56.19:318][159]AssetCheck: New page: Asset Save: multiple assets
+[2025.01.07-21.56.19:318][159]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Equipment_System/BPC_EquipmentSystem.BPC_EquipmentSystem
+[2025.01.07-21.56.19:318][159]LogContentValidation: Display: Validating /Game/Equipment_System/BP_Weapon.BP_Weapon_C /Game/Level1.Level1:PersistentLevel.BP_Weapon_C_UAID_74D4DD55D6DABB3F02_1887881937
+[2025.01.07-21.56.19:318][159]LogContentValidation: Display: Validating /Game/Equipment_System/BP_Weapon.BP_Weapon_C /Game/Level1.Level1:PersistentLevel.BP_Weapon_C_UAID_74D4DD55D6DABB3F02_1889769938
+[2025.01.07-21.56.19:318][159]LogContentValidation: Display: Validating /Game/Equipment_System/BP_Weapon.BP_Weapon_C /Game/Level1.Level1:PersistentLevel.BP_Weapon_C_UAID_74D4DD55D6DAB93F02_1734328584
+[2025.01.07-21.56.19:318][159]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Equipment_System/UI/WB_Equipable_Slot.WB_Equipable_Slot
+[2025.01.07-21.56.19:323][160]Cmd: QUIT_EDITOR
+[2025.01.07-21.56.19:323][160]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.07-21.56.19:329][160]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.07-21.56.19:329][160]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.07-21.56.19:330][160]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.07-21.56.19:341][160]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: GeometryCollectionComponent /Game/Level1.Level1:PersistentLevel.GeometryCollectionActor_UAID_74D4DD55D6DA683302_2059327658.GeometryCollectionComponent0, from: Remove from navoctree)
+[2025.01.07-21.56.19:396][160]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: GeometryCollectionComponent /Game/Level1.Level1:PersistentLevel.GeometryCollectionActor_UAID_74D4DD55D6DA683302_1363009655.GeometryCollectionComponent0, from: Remove from navoctree)
+[2025.01.07-21.56.19:396][160]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: GeometryCollectionComponent /Game/Level1.Level1:PersistentLevel.GeometryCollectionActor_UAID_74D4DD55D6DA3C3302_1196666914.GeometryCollectionComponent0, from: Remove from navoctree)
+[2025.01.07-21.56.19:399][160]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.19:399][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-21.56.19:400][160]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.01.07-21.56.19:409][160]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.01.07-21.56.19:412][160]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.07-21.56.20:560][160]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.07-21.56.20:560][160]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.07-21.56.20:560][160]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2025.01.07-21.56.20:561][160]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.01.07-21.56.20:561][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.07-21.56.20:563][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.07-21.56.20:570][160]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.07-21.56.20:573][160]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.07-21.56.20:574][160]LogExit: Preparing to exit.
+[2025.01.07-21.56.20:648][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.01.07-21.56.20:657][160]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:657][160]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:659][160]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.07-21.56.20:978][160]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.20:980][160]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.20:982][160]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.20:983][160]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.20:985][160]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.20:986][160]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.20:987][160]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.20:989][160]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.20:991][160]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.20:992][160]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-21.56.21:135][160]LogExit: Editor shut down
+[2025.01.07-21.56.21:138][160]LogExit: Transaction tracking system shut down
+[2025.01.07-21.56.21:144][160]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.07-21.56.21:471][160]LogExit: Object subsystem successfully closed.
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: ================================================
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: Total job queries 53, among them cache hits 14 (26.42%)
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: Tracking 39 distinct input hashes that result in 26 distinct outputs (66.67%)
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: RAM used: 870,75 KiB of 819,20 MiB budget. Usage: 0.10%
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.01.07-21.56.21:478][160]LogShaderCompilers: Display: ================================================
+[2025.01.07-21.56.21:580][160]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.07-21.56.21:646][160]LogVirtualization: UE::Virtualization was shutdown
+[2025.01.07-21.56.21:733][160]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1015)
+[2025.01.07-21.56.21:734][160]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1013)
+[2025.01.07-21.56.21:734][160]LogModuleManager: Shutting down and abandoning module Voice (1011)
+[2025.01.07-21.56.21:734][160]LogModuleManager: Shutting down and abandoning module DataTableEditor (1009)
+[2025.01.07-21.56.21:734][160]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1007)
+[2025.01.07-21.56.21:734][160]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1005)
+[2025.01.07-21.56.21:734][160]LogModuleManager: Shutting down and abandoning module SceneOutliner (1003)
+[2025.01.07-21.56.21:734][160]LogModuleManager: Shutting down and abandoning module AddContentDialog (1001)
+[2025.01.07-21.56.21:735][160]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1000)
+[2025.01.07-21.56.21:735][160]LogModuleManager: Shutting down and abandoning module StatusBar (997)
+[2025.01.07-21.56.21:735][160]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (995)
+[2025.01.07-21.56.21:735][160]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (993)
+[2025.01.07-21.56.21:735][160]LogModuleManager: Shutting down and abandoning module StatsViewer (991)
+[2025.01.07-21.56.21:736][160]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (989)
+[2025.01.07-21.56.21:736][160]LogModuleManager: Shutting down and abandoning module AutomationWorker (987)
+[2025.01.07-21.56.21:736][160]LogModuleManager: Shutting down and abandoning module WaveTableEditor (985)
+[2025.01.07-21.56.21:736][160]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (983)
+[2025.01.07-21.56.21:736][160]LogModuleManager: Shutting down and abandoning module GooglePADEditor (981)
+[2025.01.07-21.56.21:736][160]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (979)
+[2025.01.07-21.56.21:737][160]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (977)
+[2025.01.07-21.56.21:737][160]LogModuleManager: Shutting down and abandoning module SequenceRecorder (976)
+[2025.01.07-21.56.21:738][160]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (973)
+[2025.01.07-21.56.21:738][160]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (971)
+[2025.01.07-21.56.21:738][160]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (969)
+[2025.01.07-21.56.21:738][160]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (967)
+[2025.01.07-21.56.21:739][160]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (965)
+[2025.01.07-21.56.21:739][160]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (963)
+[2025.01.07-21.56.21:739][160]LogModuleManager: Shutting down and abandoning module WebMMedia (961)
+[2025.01.07-21.56.21:739][160]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (959)
+[2025.01.07-21.56.21:739][160]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (957)
+[2025.01.07-21.56.21:739][160]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (955)
+[2025.01.07-21.56.21:740][160]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (953)
+[2025.01.07-21.56.21:740][160]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (951)
+[2025.01.07-21.56.21:740][160]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (949)
+[2025.01.07-21.56.21:740][160]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (947)
+[2025.01.07-21.56.21:740][160]LogModuleManager: Shutting down and abandoning module SmartSnapping (945)
+[2025.01.07-21.56.21:740][160]LogModuleManager: Shutting down and abandoning module PlanarCut (943)
+[2025.01.07-21.56.21:740][160]LogModuleManager: Shutting down and abandoning module CharacterAI (941)
+[2025.01.07-21.56.21:741][160]LogModuleManager: Shutting down and abandoning module FractureEngine (939)
+[2025.01.07-21.56.21:741][160]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (937)
+[2025.01.07-21.56.21:741][160]LogModuleManager: Shutting down and abandoning module ControlRigEditor (935)
+[2025.01.07-21.56.21:743][160]LogModuleManager: Shutting down and abandoning module IKRigEditor (933)
+[2025.01.07-21.56.21:744][160]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (931)
+[2025.01.07-21.56.21:745][160]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (929)
+[2025.01.07-21.56.21:746][160]LogModuleManager: Shutting down and abandoning module TextureAlignMode (927)
+[2025.01.07-21.56.21:746][160]LogModuleManager: Shutting down and abandoning module BspMode (925)
+[2025.01.07-21.56.21:746][160]LogModuleManager: Shutting down and abandoning module GeometryMode (923)
+[2025.01.07-21.56.21:747][160]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (921)
+[2025.01.07-21.56.21:747][160]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (919)
+[2025.01.07-21.56.21:747][160]LogModuleManager: Shutting down and abandoning module SessionServices (917)
+[2025.01.07-21.56.21:755][160]LogModuleManager: Shutting down and abandoning module MeshPaint (915)
+[2025.01.07-21.56.21:756][160]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (913)
+[2025.01.07-21.56.21:756][160]LogModuleManager: Shutting down and abandoning module PlacementMode (912)
+[2025.01.07-21.56.21:756][160]LogModuleManager: Shutting down and abandoning module FoliageEdit (909)
+[2025.01.07-21.56.21:757][160]LogModuleManager: Shutting down and abandoning module LandscapeEditor (907)
+[2025.01.07-21.56.21:760][160]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (905)
+[2025.01.07-21.56.21:760][160]LogModuleManager: Shutting down and abandoning module ActorPickerMode (903)
+[2025.01.07-21.56.21:760][160]LogModuleManager: Shutting down and abandoning module ViewportSnapping (901)
+[2025.01.07-21.56.21:760][160]LogModuleManager: Shutting down and abandoning module ViewportInteraction (899)
+[2025.01.07-21.56.21:760][160]LogModuleManager: Shutting down and abandoning module ClothPainter (897)
+[2025.01.07-21.56.21:760][160]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (896)
+[2025.01.07-21.56.21:761][160]LogModuleManager: Shutting down and abandoning module LogVisualizer (893)
+[2025.01.07-21.56.21:763][160]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (891)
+[2025.01.07-21.56.21:764][160]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (889)
+[2025.01.07-21.56.21:764][160]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (888)
+[2025.01.07-21.56.21:764][160]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (886)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (883)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (881)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (879)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (877)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (875)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (873)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module AnimationSettings (871)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (869)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module CSVtoSVG (867)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (865)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module EditorConfig (863)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module EditorFramework (861)
+[2025.01.07-21.56.22:637][160]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (859)
+[2025.01.07-21.56.22:638][160]LogModuleManager: Shutting down and abandoning module TraceInsights (857)
+[2025.01.07-21.56.22:642][160]MemoryProfiler: Shutdown
+[2025.01.07-21.56.22:644][160]NetworkingProfiler: Shutdown
+[2025.01.07-21.56.22:644][160]LoadingProfiler: Shutdown
+[2025.01.07-21.56.22:644][160]TimingProfiler: Shutdown
+[2025.01.07-21.56.22:646][160]LogModuleManager: Shutting down and abandoning module TraceServices (856)
+[2025.01.07-21.56.22:648][160]LogModuleManager: Shutting down and abandoning module TraceAnalysis (855)
+[2025.01.07-21.56.22:648][160]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (851)
+[2025.01.07-21.56.22:648][160]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (850)
+[2025.01.07-21.56.22:648][160]LogModuleManager: Shutting down and abandoning module InputBindingEditor (847)
+[2025.01.07-21.56.22:648][160]LogModuleManager: Shutting down and abandoning module MergeActors (845)
+[2025.01.07-21.56.22:649][160]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (843)
+[2025.01.07-21.56.22:649][160]LogModuleManager: Shutting down and abandoning module LocalizationService (842)
+[2025.01.07-21.56.22:649][160]LogModuleManager: Shutting down and abandoning module HardwareTargeting (839)
+[2025.01.07-21.56.22:649][160]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (837)
+[2025.01.07-21.56.22:650][160]LogModuleManager: Shutting down and abandoning module UndoHistory (835)
+[2025.01.07-21.56.22:650][160]LogModuleManager: Shutting down and abandoning module XmlParser (833)
+[2025.01.07-21.56.22:650][160]LogModuleManager: Shutting down and abandoning module Blutility (831)
+[2025.01.07-21.56.22:650][160]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (829)
+[2025.01.07-21.56.22:650][160]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (828)
+[2025.01.07-21.56.22:651][160]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (825)
+[2025.01.07-21.56.22:651][160]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (824)
+[2025.01.07-21.56.22:651][160]LogModuleManager: Shutting down and abandoning module SettingsEditor (821)
+[2025.01.07-21.56.22:651][160]LogModuleManager: Shutting down and abandoning module ProjectLauncher (819)
+[2025.01.07-21.56.22:651][160]LogModuleManager: Shutting down and abandoning module SessionFrontend (817)
+[2025.01.07-21.56.22:652][160]LogModuleManager: Shutting down and abandoning module ProfilerClient (815)
+[2025.01.07-21.56.22:652][160]LogModuleManager: Shutting down and abandoning module DeviceManager (813)
+[2025.01.07-21.56.22:653][160]LogModuleManager: Shutting down and abandoning module AutomationController (811)
+[2025.01.07-21.56.22:653][160]LogModuleManager: Shutting down and abandoning module AutomationWindow (809)
+[2025.01.07-21.56.22:655][160]LogModuleManager: Shutting down and abandoning module Layers (807)
+[2025.01.07-21.56.22:656][160]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (805)
+[2025.01.07-21.56.22:656][160]LogModuleManager: Shutting down and abandoning module DetailCustomizations (803)
+[2025.01.07-21.56.22:657][160]LogModuleManager: Shutting down and abandoning module PackagesDialog (801)
+[2025.01.07-21.56.22:657][160]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (799)
+[2025.01.07-21.56.22:658][160]LogModuleManager: Shutting down and abandoning module Persona (797)
+[2025.01.07-21.56.22:659][160]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (796)
+[2025.01.07-21.56.22:659][160]LogModuleManager: Shutting down and abandoning module Kismet (793)
+[2025.01.07-21.56.22:667][160]LogModuleManager: Shutting down and abandoning module KismetWidgets (792)
+[2025.01.07-21.56.22:667][160]LogModuleManager: Shutting down and abandoning module GraphEditor (789)
+[2025.01.07-21.56.22:667][160]LogModuleManager: Shutting down and abandoning module StructViewer (787)
+[2025.01.07-21.56.22:667][160]LogModuleManager: Shutting down and abandoning module ClassViewer (785)
+[2025.01.07-21.56.22:673][160]LogModuleManager: Shutting down and abandoning module NaniteTools (783)
+[2025.01.07-21.56.22:673][160]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (781)
+[2025.01.07-21.56.22:674][160]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (779)
+[2025.01.07-21.56.22:674][160]LogModuleManager: Shutting down and abandoning module SourceControlWindows (777)
+[2025.01.07-21.56.22:674][160]LogModuleManager: Shutting down and abandoning module OutputLog (775)
+[2025.01.07-21.56.22:678][160]LogModuleManager: Shutting down and abandoning module Documentation (773)
+[2025.01.07-21.56.22:680][160]LogModuleManager: Shutting down and abandoning module LiveCoding (771)
+[2025.01.07-21.56.22:687][160]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (769)
+[2025.01.07-21.56.22:687][160]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (767)
+[2025.01.07-21.56.22:687][160]LogModuleManager: Shutting down and abandoning module MovieScene (765)
+[2025.01.07-21.56.22:687][160]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (763)
+[2025.01.07-21.56.22:687][160]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (761)
+[2025.01.07-21.56.22:687][160]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (759)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module AudioMixer (758)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module AudioMixerCore (757)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module LauncherPlatform (753)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module AnalyticsET (751)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module PortalServices (749)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module PortalRpc (747)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module MessagingRpc (745)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module AIModule (743)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module GameplayDebugger (742)
+[2025.01.07-21.56.22:688][160]LogModuleManager: Shutting down and abandoning module AITestSuite (740)
+[2025.01.07-21.56.22:689][160]LogModuleManager: Shutting down and abandoning module NavigationSystem (738)
+[2025.01.07-21.56.22:689][160]LogModuleManager: Shutting down and abandoning module DataLayerEditor (735)
+[2025.01.07-21.56.22:689][160]LogModuleManager: Shutting down and abandoning module EditorWidgets (734)
+[2025.01.07-21.56.22:689][160]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (731)
+[2025.01.07-21.56.22:689][160]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (729)
+[2025.01.07-21.56.22:689][160]LogModuleManager: Shutting down and abandoning module TypedElementFramework (727)
+[2025.01.07-21.56.22:689][160]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (725)
+[2025.01.07-21.56.22:689][160]LogModuleManager: Shutting down and abandoning module ProfilerService (723)
+[2025.01.07-21.56.22:736][160]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (721)
+[2025.01.07-21.56.22:737][160]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (719)
+[2025.01.07-21.56.22:737][160]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (717)
+[2025.01.07-21.56.22:737][160]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (715)
+[2025.01.07-21.56.22:738][160]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (713)
+[2025.01.07-21.56.22:738][160]LogModuleManager: Shutting down and abandoning module TakesCore (711)
+[2025.01.07-21.56.22:738][160]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (709)
+[2025.01.07-21.56.22:738][160]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (707)
+[2025.01.07-21.56.22:738][160]LogModuleManager: Shutting down and abandoning module CollectionManager (706)
+[2025.01.07-21.56.22:739][160]LogModuleManager: Shutting down and abandoning module LightMixer (703)
+[2025.01.07-21.56.22:739][160]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (701)
+[2025.01.07-21.56.22:739][160]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (699)
+[2025.01.07-21.56.22:739][160]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (697)
+[2025.01.07-21.56.22:740][160]LogModuleManager: Shutting down and abandoning module SynthesisEditor (695)
+[2025.01.07-21.56.22:740][160]LogModuleManager: Shutting down and abandoning module ResonanceAudio (693)
+[2025.01.07-21.56.22:740][160]LogModuleManager: Shutting down and abandoning module GooglePAD (691)
+[2025.01.07-21.56.22:740][160]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (689)
+[2025.01.07-21.56.22:740][160]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (687)
+[2025.01.07-21.56.22:740][160]LogModuleManager: Shutting down and abandoning module ModelingOperators (685)
+[2025.01.07-21.56.22:740][160]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (683)
+[2025.01.07-21.56.22:740][160]LogModuleManager: Shutting down and abandoning module ModelingComponents (681)
+[2025.01.07-21.56.22:740][160]LogModuleManager: Shutting down and abandoning module GeometryFramework (680)
+[2025.01.07-21.56.22:741][160]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (677)
+[2025.01.07-21.56.22:741][160]LogModuleManager: Shutting down and abandoning module MeshModelingTools (675)
+[2025.01.07-21.56.22:741][160]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (673)
+[2025.01.07-21.56.22:741][160]LogModuleManager: Shutting down and abandoning module InputDebugging (671)
+[2025.01.07-21.56.22:741][160]LogModuleManager: Shutting down and abandoning module AndroidPermission (669)
+[2025.01.07-21.56.22:741][160]LogModuleManager: Shutting down and abandoning module DynamicMesh (667)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (665)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module MediaCompositing (663)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (661)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (659)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (657)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module AssetTags (655)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (653)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module AppleImageUtils (651)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module AudioCapture (649)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (648)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (645)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (643)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (641)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (639)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module MediaPlate (637)
+[2025.01.07-21.56.22:742][160]LogModuleManager: Shutting down and abandoning module ImgMedia (633)
+[2025.01.07-21.56.22:743][160]LogModuleManager: Shutting down and abandoning module PresetAsset (631)
+[2025.01.07-21.56.22:743][160]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (629)
+[2025.01.07-21.56.22:743][160]LogModuleManager: Shutting down and abandoning module InterchangeTests (627)
+[2025.01.07-21.56.22:743][160]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (625)
+[2025.01.07-21.56.22:743][160]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (623)
+[2025.01.07-21.56.22:743][160]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (621)
+[2025.01.07-21.56.22:743][160]LogModuleManager: Shutting down and abandoning module InterchangeEditor (619)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (617)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (615)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (613)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module InterchangePipelines (611)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module InterchangeExport (609)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module InterchangeMessages (607)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module InterchangeImport (605)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (603)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module InterchangeNodes (601)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module TakeSequencer (599)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module TakeMovieScene (597)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (595)
+[2025.01.07-21.56.22:744][160]LogModuleManager: Shutting down and abandoning module UVEditorTools (593)
+[2025.01.07-21.56.22:745][160]LogModuleManager: Shutting down and abandoning module UVEditor (591)
+[2025.01.07-21.56.22:745][160]LogModuleManager: Shutting down and abandoning module AlembicImporter (589)
+[2025.01.07-21.56.22:745][160]LogModuleManager: Shutting down and abandoning module AlembicLibrary (588)
+[2025.01.07-21.56.22:745][160]LogModuleManager: Shutting down and abandoning module GeometryCache (587)
+[2025.01.07-21.56.22:746][160]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (586)
+[2025.01.07-21.56.22:746][160]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (581)
+[2025.01.07-21.56.22:746][160]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (579)
+[2025.01.07-21.56.22:746][160]LogModuleManager: Shutting down and abandoning module Paper2DEditor (577)
+[2025.01.07-21.56.22:747][160]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (575)
+[2025.01.07-21.56.22:747][160]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (573)
+[2025.01.07-21.56.22:747][160]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (572)
+[2025.01.07-21.56.22:747][160]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (570)
+[2025.01.07-21.56.22:747][160]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (567)
+[2025.01.07-21.56.22:747][160]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (565)
+[2025.01.07-21.56.22:747][160]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (563)
+[2025.01.07-21.56.22:748][160]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (561)
+[2025.01.07-21.56.22:748][160]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (559)
+[2025.01.07-21.56.22:749][160]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (557)
+[2025.01.07-21.56.22:749][160]LogOpenImageDenoise: OIDN shutting down
+[2025.01.07-21.56.22:749][160]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (555)
+[2025.01.07-21.56.22:749][160]LogModuleManager: Shutting down and abandoning module MeshLODToolset (553)
+[2025.01.07-21.56.22:749][160]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (551)
+[2025.01.07-21.56.22:749][160]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (549)
+[2025.01.07-21.56.22:749][160]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (547)
+[2025.01.07-21.56.22:749][160]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (545)
+[2025.01.07-21.56.22:750][160]LogModuleManager: Shutting down and abandoning module DataflowNodes (543)
+[2025.01.07-21.56.22:750][160]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (541)
+[2025.01.07-21.56.22:750][160]LogModuleManager: Shutting down and abandoning module DataflowEditor (539)
+[2025.01.07-21.56.22:750][160]LogModuleManager: Shutting down and abandoning module BackChannel (537)
+[2025.01.07-21.56.22:750][160]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (535)
+[2025.01.07-21.56.22:750][160]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (533)
+[2025.01.07-21.56.22:750][160]LogModuleManager: Shutting down and abandoning module FractureEditor (531)
+[2025.01.07-21.56.22:751][160]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (529)
+[2025.01.07-21.56.22:751][160]LogModuleManager: Shutting down and abandoning module AutomationUtils (527)
+[2025.01.07-21.56.22:751][160]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (525)
+[2025.01.07-21.56.22:753][160]LogModuleManager: Shutting down and abandoning module ChaosNiagara (523)
+[2025.01.07-21.56.22:753][160]LogModuleManager: Shutting down and abandoning module StylusInput (521)
+[2025.01.07-21.56.22:753][160]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (519)
+[2025.01.07-21.56.22:753][160]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (517)
+[2025.01.07-21.56.22:753][160]LogModuleManager: Shutting down and abandoning module ControlRigSpline (515)
+[2025.01.07-21.56.22:753][160]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (513)
+[2025.01.07-21.56.22:753][160]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (511)
+[2025.01.07-21.56.22:754][160]LogModuleManager: Shutting down and abandoning module VariantManager (509)
+[2025.01.07-21.56.22:756][160]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (508)
+[2025.01.07-21.56.22:756][160]LogModuleManager: Shutting down and abandoning module PluginBrowser (505)
+[2025.01.07-21.56.22:757][160]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (503)
+[2025.01.07-21.56.22:757][160]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (501)
+[2025.01.07-21.56.22:758][160]LogModuleManager: Shutting down and abandoning module ChangelistReview (499)
+[2025.01.07-21.56.22:758][160]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (497)
+[2025.01.07-21.56.22:758][160]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (495)
+[2025.01.07-21.56.22:759][160]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (493)
+[2025.01.07-21.56.22:759][160]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (491)
+[2025.01.07-21.56.22:759][160]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (489)
+[2025.01.07-21.56.22:760][160]LogModuleManager: Shutting down and abandoning module GLTFImporter (487)
+[2025.01.07-21.56.22:760][160]LogModuleManager: Shutting down and abandoning module GLTFCore (485)
+[2025.01.07-21.56.22:760][160]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (483)
+[2025.01.07-21.56.22:760][160]LogModuleManager: Shutting down and abandoning module CryptoKeys (481)
+[2025.01.07-21.56.22:760][160]LogModuleManager: Shutting down and abandoning module EditorDebugTools (479)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module CurveEditorTools (477)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module UObjectPlugin (475)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (473)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (471)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module SequencerScripting (469)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module TemplateSequence (467)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (465)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (463)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module PluginUtils (461)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (459)
+[2025.01.07-21.56.22:761][160]LogModuleManager: Shutting down and abandoning module GitSourceControl (457)
+[2025.01.07-21.56.22:762][160]LogModuleManager: Shutting down and abandoning module DumpGPUServices (455)
+[2025.01.07-21.56.22:762][160]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (453)
+[2025.01.07-21.56.22:762][160]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (451)
+[2025.01.07-21.56.22:762][160]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2025.01.07-21.56.22:762][160]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2025.01.07-21.56.22:762][160]LogModuleManager: Shutting down and abandoning module InputEditor (445)
+[2025.01.07-21.56.22:763][160]LogModuleManager: Shutting down and abandoning module BlueprintGraph (444)
+[2025.01.07-21.56.22:763][160]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (441)
+[2025.01.07-21.56.22:763][160]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (439)
+[2025.01.07-21.56.22:763][160]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (437)
+[2025.01.07-21.56.22:763][160]LogModuleManager: Shutting down and abandoning module SoundFields (435)
+[2025.01.07-21.56.22:763][160]LogModuleManager: Shutting down and abandoning module Synthesis (433)
+[2025.01.07-21.56.22:764][160]LogModuleManager: Shutting down and abandoning module SignificanceManager (431)
+[2025.01.07-21.56.22:764][160]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (429)
+[2025.01.07-21.56.22:764][160]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (427)
+[2025.01.07-21.56.22:764][160]LogModuleManager: Shutting down and abandoning module MetasoundEditor (425)
+[2025.01.07-21.56.22:765][160]LogModuleManager: Shutting down and abandoning module AudioWidgets (424)
+[2025.01.07-21.56.22:765][160]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (423)
+[2025.01.07-21.56.22:767][160]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (419)
+[2025.01.07-21.56.22:767][160]LogModuleManager: Shutting down and abandoning module MetasoundEngine (417)
+[2025.01.07-21.56.22:767][160]LogModuleManager: Shutting down and abandoning module WaveTable (416)
+[2025.01.07-21.56.22:767][160]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (414)
+[2025.01.07-21.56.22:767][160]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (411)
+[2025.01.07-21.56.22:767][160]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (409)
+[2025.01.07-21.56.22:767][160]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (407)
+[2025.01.07-21.56.22:768][160]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (405)
+[2025.01.07-21.56.22:768][160]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (403)
+[2025.01.07-21.56.22:768][160]LogModuleManager: Shutting down and abandoning module CableComponent (401)
+[2025.01.07-21.56.22:768][160]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (399)
+[2025.01.07-21.56.22:768][160]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (398)
+[2025.01.07-21.56.22:768][160]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (395)
+[2025.01.07-21.56.22:768][160]LogModuleManager: Shutting down and abandoning module UdpMessaging (393)
+[2025.01.07-21.56.22:869][160]LogModuleManager: Shutting down and abandoning module TcpMessaging (391)
+[2025.01.07-21.56.22:974][160]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (389)
+[2025.01.07-21.56.22:974][160]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (387)
+[2025.01.07-21.56.22:974][160]LogModuleManager: Shutting down and abandoning module Paper2D (385)
+[2025.01.07-21.56.22:974][160]LogModuleManager: Shutting down and abandoning module PBIK (383)
+[2025.01.07-21.56.22:975][160]LogModuleManager: Shutting down and abandoning module FullBodyIK (381)
+[2025.01.07-21.56.22:975][160]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (379)
+[2025.01.07-21.56.22:975][160]LogModuleManager: Shutting down and abandoning module Niagara (377)
+[2025.01.07-21.56.22:976][160]LogModuleManager: Shutting down and abandoning module SignalProcessing (376)
+[2025.01.07-21.56.22:977][160]LogModuleManager: Shutting down and abandoning module NiagaraEditor (374)
+[2025.01.07-21.56.22:978][160]LogModuleManager: Shutting down and abandoning module NiagaraCore (371)
+[2025.01.07-21.56.22:978][160]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (369)
+[2025.01.07-21.56.22:978][160]LogModuleManager: Shutting down and abandoning module TakeRecorder (368)
+[2025.01.07-21.56.22:978][160]LogModuleManager: Shutting down and abandoning module ChaosCaching (365)
+[2025.01.07-21.56.22:978][160]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (363)
+[2025.01.07-21.56.22:978][160]LogModuleManager: Shutting down and abandoning module ControlRig (361)
+[2025.01.07-21.56.22:978][160]LogModuleManager: Shutting down and abandoning module Constraints (360)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module LevelSequence (358)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (355)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module IKRig (353)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (351)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module AnimationData (349)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (347)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module DataValidation (345)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module GameplayCameras (343)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (341)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module FacialAnimation (339)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (337)
+[2025.01.07-21.56.22:979][160]LogModuleManager: Shutting down and abandoning module LevelEditor (336)
+[2025.01.07-21.56.22:988][160]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (335)
+[2025.01.07-21.56.22:989][160]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (333)
+[2025.01.07-21.56.22:989][160]LogModuleManager: Shutting down and abandoning module MainFrame (331)
+[2025.01.07-21.56.22:989][160]LogModuleManager: Shutting down and abandoning module HotReload (330)
+[2025.01.07-21.56.22:990][160]LogModuleManager: Shutting down and abandoning module ContentBrowser (326)
+[2025.01.07-21.56.22:990][160]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2025.01.07-21.56.22:990][160]LogModuleManager: Shutting down and abandoning module ContentBrowserData (323)
+[2025.01.07-21.56.22:990][160]LogModuleManager: Shutting down and abandoning module TreeMap (320)
+[2025.01.07-21.56.22:990][160]LogModuleManager: Shutting down and abandoning module ActorSequence (317)
+[2025.01.07-21.56.22:990][160]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (315)
+[2025.01.07-21.56.22:990][160]LogModuleManager: Shutting down and abandoning module AnimationSharing (313)
+[2025.01.07-21.56.22:990][160]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (311)
+[2025.01.07-21.56.22:992][160]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2025.01.07-21.56.22:992][160]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2025.01.07-21.56.22:992][160]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2025.01.07-21.56.23:016][160]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2025.01.07-21.56.23:016][160]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2025.01.07-21.56.23:016][160]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2025.01.07-21.56.23:016][160]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2025.01.07-21.56.23:016][160]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2025.01.07-21.56.23:016][160]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2025.01.07-21.56.23:016][160]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2025.01.07-21.56.23:017][160]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2025.01.07-21.56.23:017][160]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2025.01.07-21.56.23:017][160]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2025.01.07-21.56.23:017][160]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2025.01.07-21.56.23:017][160]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2025.01.07-21.56.23:017][160]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2025.01.07-21.56.23:017][160]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2025.01.07-21.56.23:017][160]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2025.01.07-21.56.23:019][160]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2025.01.07-21.56.23:019][160]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2025.01.07-21.56.23:020][160]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2025.01.07-21.56.23:020][160]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2025.01.07-21.56.23:020][160]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2025.01.07-21.56.23:021][160]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2025.01.07-21.56.23:021][160]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2025.01.07-21.56.23:021][160]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2025.01.07-21.56.23:021][160]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2025.01.07-21.56.23:024][160]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2025.01.07-21.56.23:024][160]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module Core (233)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2025.01.07-21.56.23:025][160]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2025.01.07-21.56.23:026][160]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2025.01.07-21.56.23:026][160]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2025.01.07-21.56.23:027][160]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2025.01.07-21.56.23:027][160]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2025.01.07-21.56.23:027][160]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2025.01.07-21.56.23:027][160]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2025.01.07-21.56.23:028][160]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2025.01.07-21.56.23:028][160]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2025.01.07-21.56.23:028][160]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2025.01.07-21.56.23:028][160]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2025.01.07-21.56.23:028][160]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2025.01.07-21.56.23:030][160]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2025.01.07-21.56.23:031][160]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2025.01.07-21.56.23:031][160]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2025.01.07-21.56.23:042][160]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2025.01.07-21.56.23:042][160]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2025.01.07-21.56.23:042][160]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2025.01.07-21.56.23:046][160]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2025.01.07-21.56.23:046][160]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2025.01.07-21.56.23:046][160]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2025.01.07-21.56.23:047][160]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2025.01.07-21.56.23:049][160]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2025.01.07-21.56.23:049][160]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2025.01.07-21.56.23:049][160]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2025.01.07-21.56.23:049][160]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2025.01.07-21.56.23:050][160]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2025.01.07-21.56.23:050][160]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2025.01.07-21.56.23:050][160]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2025.01.07-21.56.23:050][160]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2025.01.07-21.56.23:050][160]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2025.01.07-21.56.23:050][160]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2025.01.07-21.56.23:050][160]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2025.01.07-21.56.23:050][160]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2025.01.07-21.56.23:051][160]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2025.01.07-21.56.23:053][160]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2025.01.07-21.56.23:058][160]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2025.01.07-21.56.23:058][160]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2025.01.07-21.56.23:058][160]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2025.01.07-21.56.23:058][160]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2025.01.07-21.56.23:059][160]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2025.01.07-21.56.23:059][160]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2025.01.07-21.56.23:059][160]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2025.01.07-21.56.23:059][160]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2025.01.07-21.56.23:059][160]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (116)
+[2025.01.07-21.56.23:059][160]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (114)
+[2025.01.07-21.56.23:061][160]LogModuleManager: Shutting down and abandoning module XMPP (109)
+[2025.01.07-21.56.23:062][160]LogModuleManager: Shutting down and abandoning module WebSockets (108)
+[2025.01.07-21.56.23:097][160]LogModuleManager: Shutting down and abandoning module HTTP (105)
+[2025.01.07-21.56.23:097][160]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.07-21.56.23:097][160]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82400D56-479A-CBC1-040B-B58671C6B2F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=8370ed334c2429127df600a0c7745382%7C1fe304474f9d454d86136390f65245b1%7Cd865102c-4a2d-447b-967b-2d1bd83475b1&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.01.07-21.56.23:115][160]LogModuleManager: Shutting down and abandoning module SSL (104)
+[2025.01.07-21.56.23:116][160]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2025.01.07-21.56.23:116][160]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2025.01.07-21.56.23:116][160]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2025.01.07-21.56.23:116][160]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2025.01.07-21.56.23:116][160]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (92)
+[2025.01.07-21.56.23:117][160]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (90)
+[2025.01.07-21.56.23:118][160]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (88)
+[2025.01.07-21.56.23:119][160]LogModuleManager: Shutting down and abandoning module WmfMedia (86)
+[2025.01.07-21.56.23:124][160]LogModuleManager: Shutting down and abandoning module Media (85)
+[2025.01.07-21.56.23:125][160]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (82)
+[2025.01.07-21.56.23:125][160]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2025.01.07-21.56.23:125][160]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (78)
+[2025.01.07-21.56.23:125][160]LogModuleManager: Shutting down and abandoning module NiagaraShader (76)
+[2025.01.07-21.56.23:125][160]LogModuleManager: Shutting down and abandoning module ChaosCloth (74)
+[2025.01.07-21.56.23:127][160]LogModuleManager: Shutting down and abandoning module VariantManagerContent (72)
+[2025.01.07-21.56.23:127][160]LogModuleManager: Shutting down and abandoning module DatasmithContent (70)
+[2025.01.07-21.56.23:127][160]LogModuleManager: Shutting down and abandoning module GLTFExporter (68)
+[2025.01.07-21.56.23:127][160]LogModuleManager: Shutting down and abandoning module PixWinPlugin (66)
+[2025.01.07-21.56.23:127][160]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (64)
+[2025.01.07-21.56.23:127][160]RenderDocPlugin: plugin has been unloaded.
+[2025.01.07-21.56.23:127][160]LogModuleManager: Shutting down and abandoning module AISupportModule (62)
+[2025.01.07-21.56.23:127][160]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2025.01.07-21.56.23:127][160]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (58)
+[2025.01.07-21.56.23:127][160]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (56)
+[2025.01.07-21.56.23:129][160]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (54)
+[2025.01.07-21.56.23:129][160]LogModuleManager: Shutting down and abandoning module PlatformCrypto (52)
+[2025.01.07-21.56.23:129][160]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (50)
+[2025.01.07-21.56.23:132][160]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2025.01.07-21.56.23:135][160]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2025.01.07-21.56.23:135][160]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2025.01.07-21.56.23:135][160]LogXGEController: Cleaning working directory: C:/Users/danii/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.01.07-21.56.23:136][160]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2025.01.07-21.56.23:136][160]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2025.01.07-21.56.23:138][160]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2025.01.07-21.56.23:140][160]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2025.01.07-21.56.23:140][160]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2025.01.07-21.56.23:140][160]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2025.01.07-21.56.23:140][160]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2025.01.07-21.56.23:140][160]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.01.07-21.56.23:140][160]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.01.07-21.56.23:140][160]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.01.07-21.56.23:144][160]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.01.07-21.56.23:144][160]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.01.07-21.56.23:144][160]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.01.07-21.56.23:144][160]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.01.07-21.56.23:144][160]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.01.07-21.56.23:144][160]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.01.07-21.56.23:144][160]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.01.07-21.56.23:144][160]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.01.07-21.56.23:145][160]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.01.07-21.56.23:145][160]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.01.07-21.56.23:145][160]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.01.07-21.56.23:620][160]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.07-21.56.23:699][160]LogExit: Exiting.
+[2025.01.07-21.56.23:723][160]Log file closed, 01/07/25 22:56:23
